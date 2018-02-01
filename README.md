@@ -12,7 +12,7 @@ Spring project with Maven initialized. Dependencies such as "spring-boot-starter
 
 Run the program and make a request "http://localhost:8080/api/request" and the User appears in JSON format with firstname, lastname, username printed. 
 
-For more details see classes in com.example.demo and follow the javadoc comments provided. 
+For more details see classes in com.example.demo and follow the javadocs provided. 
 
 
 
